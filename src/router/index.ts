@@ -1,8 +1,11 @@
+import { AmplifyModules, AmplifyPlugin } from 'aws-amplify-vue';
+
+import Home from "../views/Home.vue";
 import Vue from "vue";
 import VueRouter from "vue-router";
-import Home from "../views/Home.vue";
 
-Vue.use(VueRouter);
+// Vue.use(VueRouter);
+Vue.use(AmplifyPlugin, AmplifyModules);
 
 const routes = [
   {

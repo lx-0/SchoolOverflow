@@ -1,0 +1,20 @@
+{
+    "proto": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-schooloverflow-proto-170949-authRole",
+            "UnauthRoleArn": "arn:aws:iam::281920231417:role/amplify-schooloverflow-proto-170949-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::281920231417:role/amplify-schooloverflow-proto-170949-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-schooloverflow-proto-170949-deployment",
+            "UnauthRoleName": "amplify-schooloverflow-proto-170949-unauthRole",
+            "StackName": "amplify-schooloverflow-proto-170949",
+            "StackId": "arn:aws:cloudformation:eu-central-1:281920231417:stack/amplify-schooloverflow-proto-170949/68af04d0-6b8e-11ea-96a4-0aee1f35785e",
+            "AmplifyAppId": "d2v1xo7sdu4xqz"
+        },
+        "categories": {
+            "auth": {
+                "schooloverflow0bc5596c": {}
+            }
+        }
+    }
+}
