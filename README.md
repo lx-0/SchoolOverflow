@@ -1,7 +1,5 @@
 # schooloverflow
 
-psu
-
 ## Project setup
 
 ```
